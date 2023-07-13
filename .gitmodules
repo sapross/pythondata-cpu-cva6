@@ -36,7 +36,7 @@
 	url = https://github.com/pulp-platform/axi_riscv_atomics.git
 [submodule "pythondata_cpu_cva6/system_verilog/corev_apu/riscv-dbg"]
 	path = pythondata_cpu_cva6/system_verilog/corev_apu/riscv-dbg
-	url = https://github.com/pulp-platform/riscv-dbg.git
+	url = https://github.com/sapross/risc_dbg_uart.git
 [submodule "pythondata_cpu_cva6/system_verilog/corev_apu/rv_plic"]
 	path = pythondata_cpu_cva6/system_verilog/corev_apu/rv_plic
 	url = https://github.com/pulp-platform/rv_plic.git
